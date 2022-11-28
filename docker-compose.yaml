@@ -2,7 +2,7 @@ version: "3.8"
 services:
   php-apache-environment:
     container_name: php-apache
-    image: 04khofifah/kuis2_awan_Manda
+    image: 04khofifah/kuis2_awan_manda1
     build:
       context: "."
       dockerfile: Dockerfile
